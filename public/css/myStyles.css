@@ -1,0 +1,16 @@
+.management-area{
+    position: absolute;
+    top: 1em;
+    left: 100px;
+    right: 100px;
+}
+.pagination-top{
+    margin-top: 20px;
+}
+.m-t-10{
+    margin-top: 10px;
+}
+
+.m-t-30{
+    margin-top: 30px;
+}
